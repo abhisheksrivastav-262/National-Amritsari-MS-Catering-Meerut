@@ -1,0 +1,4 @@
+import type {Metadata} from 'next';import './globals.css';import Shell from '../components/Shell';
+const siteUrl=process.env.NEXT_PUBLIC_SITE_URL;
+export const metadata:Metadata={...(siteUrl?{metadataBase:new URL(siteUrl)}:{}),title:{default:'National Amritsari MS Catering | Meerut Roti Wale',template:'%s | National Amritsari MS Catering'},description:'Discover traditional Indian breads, specialty parathas, naan, roti and kulcha from National Amritsari MS Catering in Meerut.',openGraph:{type:'website',siteName:'National Amritsari MS Catering',title:'National Amritsari MS Catering',description:'Traditional Indian breads and catering inquiries in Meerut.'},robots:{index:true,follow:true}};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en" data-scroll-behavior="smooth"><body><Shell>{children}</Shell></body></html>}

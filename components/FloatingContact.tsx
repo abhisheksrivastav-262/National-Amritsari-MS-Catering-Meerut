@@ -1,0 +1,3 @@
+import {MessageCircle,Phone} from 'lucide-react';
+import {whatsapp} from './WhatsApp';
+export default function FloatingContact(){return <aside className="floating-contact" aria-label="Quick contact"><a className="float-action float-whatsapp" href={whatsapp('Hello National Amritsari MS Catering, I would like to inquire about your menu and available bread varieties.')} target="_blank" rel="noreferrer" title="WhatsApp" aria-label="Message National Amritsari MS Catering on WhatsApp"><MessageCircle size={19} aria-hidden="true"/><span>WhatsApp</span></a><a className="float-action float-call" href="tel:+919897925406" title="Call us" aria-label="Call National Amritsari MS Catering at +91 9897925406"><Phone size={18} aria-hidden="true"/><span>Call us</span></a></aside>}

@@ -1,0 +1,654 @@
+[
+  {
+    "index": 0,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.14 (1).jpeg",
+    "website": "/assets/menu/board-parathas-kulcha.webp",
+    "alt": "Menu photograph showing the paratha and kulcha lists",
+    "placement": "menu",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 104427,
+    "websiteBytes": 80872
+  },
+  {
+    "index": 1,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.14.jpeg",
+    "website": "/assets/menu/board-special-breads.webp",
+    "alt": "Printed special breads list: Sheer Maal, Taftan and Bakarkhani",
+    "placement": "menu",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 74734,
+    "websiteBytes": 51286
+  },
+  {
+    "index": 2,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.15 (1).jpeg",
+    "website": "/assets/menu/board-mutton-rice.webp",
+    "alt": "Printed mutton and rice menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 91759,
+    "websiteBytes": 68586
+  },
+  {
+    "index": 3,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.15.jpeg",
+    "website": "/assets/menu/board-roti-naan.webp",
+    "alt": "Printed roti and naan menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 104470,
+    "websiteBytes": 81666
+  },
+  {
+    "index": 4,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.16 (1).jpeg",
+    "website": "/assets/menu/board-vegetarian-snacks.webp",
+    "alt": "Printed vegetarian snacks menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      526,
+      792
+    ],
+    "originalBytes": 96331,
+    "websiteBytes": 36988
+  },
+  {
+    "index": 5,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.16.jpeg",
+    "website": "/assets/menu/board-vegetarian-rice.webp",
+    "alt": "Printed vegetarian rice menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      632,
+      374
+    ],
+    "originalBytes": 57609,
+    "websiteBytes": 18200
+  },
+  {
+    "index": 6,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.17 (1).jpeg",
+    "website": "/assets/menu/board-vegetarian-main.webp",
+    "alt": "Printed vegetarian main course menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      528,
+      772
+    ],
+    "originalBytes": 89785,
+    "websiteBytes": 34170
+  },
+  {
+    "index": 7,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.17.jpeg",
+    "website": "/assets/menu/board-kebab-snacks.webp",
+    "alt": "Printed chicken and mutton snacks menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      474,
+      600
+    ],
+    "originalBytes": 99377,
+    "websiteBytes": 39302
+  },
+  {
+    "index": 8,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.18 (1).jpeg",
+    "website": "/assets/menu/board-chicken-biryani-raita.webp",
+    "alt": "Printed chicken biryani and raita menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      466,
+      574
+    ],
+    "originalBytes": 56058,
+    "websiteBytes": 17820
+  },
+  {
+    "index": 9,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.18.jpeg",
+    "website": "/assets/menu/board-desserts.webp",
+    "alt": "Printed desserts menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      490,
+      550
+    ],
+    "originalBytes": 47634,
+    "websiteBytes": 13378
+  },
+  {
+    "index": 10,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.13.19.jpeg",
+    "website": "/assets/menu/board-nonvegetarian-main.webp",
+    "alt": "Printed chicken and mutton main course menu board",
+    "placement": "menu",
+    "originalDimensions": [
+      528,
+      732
+    ],
+    "originalBytes": 98315,
+    "websiteBytes": 37802
+  },
+  {
+    "index": 11,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.18.39.jpeg",
+    "website": "/assets/branding/brand-logo.webp",
+    "alt": "National Amritsari MS Catering logo",
+    "placement": "branding",
+    "originalDimensions": [
+      1068,
+      1276
+    ],
+    "originalBytes": 72151,
+    "websiteBytes": 47522
+  },
+  {
+    "index": 12,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.18.44.jpeg",
+    "website": "/assets/gallery/food-selection-collage.webp",
+    "alt": "Collage of food photographs supplied by the business",
+    "placement": "gallery",
+    "originalDimensions": [
+      724,
+      1280
+    ],
+    "originalBytes": 146091,
+    "websiteBytes": 131152
+  },
+  {
+    "index": 13,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.18.45.jpeg",
+    "website": "/assets/gallery/red-food-poster.webp",
+    "alt": "Promotional poster featuring restaurant dishes",
+    "placement": "gallery",
+    "originalDimensions": [
+      1072,
+      1040
+    ],
+    "originalBytes": 121147,
+    "websiteBytes": 101350
+  },
+  {
+    "index": 14,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 01.18.46.jpeg",
+    "website": "/assets/gallery/served-food-selection.webp",
+    "alt": "Photograph of served food selections",
+    "placement": "gallery",
+    "originalDimensions": [
+      720,
+      1600
+    ],
+    "originalBytes": 96854,
+    "websiteBytes": 75164
+  },
+  {
+    "index": 15,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.14.jpeg",
+    "website": "/assets/gallery/meerut-roti-wala-menu-card.webp",
+    "alt": "Meerut Roti Wala printed menu card",
+    "placement": "gallery",
+    "originalDimensions": [
+      832,
+      1280
+    ],
+    "originalBytes": 79026,
+    "websiteBytes": 59220
+  },
+  {
+    "index": 16,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.18.jpeg",
+    "website": "/assets/catering/buffet-table.webp",
+    "alt": "Buffet tables prepared for a gathering",
+    "placement": "catering",
+    "originalDimensions": [
+      780,
+      1040
+    ],
+    "originalBytes": 97812,
+    "websiteBytes": 95376
+  },
+  {
+    "index": 17,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.20.jpeg",
+    "website": "/assets/gallery/team-with-brand-display.webp",
+    "alt": "Team photo with a National Amritsari display",
+    "placement": "gallery",
+    "originalDimensions": [
+      780,
+      1040
+    ],
+    "originalBytes": 104310,
+    "websiteBytes": 100678
+  },
+  {
+    "index": 18,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.26.jpeg",
+    "website": "/assets/special-breads/bread-selection-closeup.webp",
+    "alt": "Close-up of a bread selection",
+    "placement": "special",
+    "originalDimensions": [
+      771,
+      1000
+    ],
+    "originalBytes": 89700,
+    "websiteBytes": 81478
+  },
+  {
+    "index": 19,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.32.jpeg",
+    "website": "/assets/special-breads/sweet-bread-and-drink.webp",
+    "alt": "Bread served with a drink",
+    "placement": "special",
+    "originalDimensions": [
+      552,
+      763
+    ],
+    "originalBytes": 44262,
+    "websiteBytes": 52968
+  },
+  {
+    "index": 20,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.34.jpeg",
+    "website": "/assets/home/assorted-round-breads.webp",
+    "alt": "Assorted round breads",
+    "placement": "home",
+    "originalDimensions": [
+      759,
+      1600
+    ],
+    "originalBytes": 113811,
+    "websiteBytes": 98916
+  },
+  {
+    "index": 21,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.37.jpeg",
+    "website": "/assets/home/sesame-round-breads.webp",
+    "alt": "Round sesame breads",
+    "placement": "home",
+    "originalDimensions": [
+      759,
+      1600
+    ],
+    "originalBytes": 133604,
+    "websiteBytes": 123394
+  },
+  {
+    "index": 22,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.39.jpeg",
+    "website": "/assets/home/roti-basket.webp",
+    "alt": "Assorted breads arranged in a basket",
+    "placement": "home",
+    "originalDimensions": [
+      759,
+      1600
+    ],
+    "originalBytes": 132052,
+    "websiteBytes": 111508
+  },
+  {
+    "index": 23,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.19.42.jpeg",
+    "website": "/assets/home/bread-tray-hero.webp",
+    "alt": "Large tray displaying assorted breads",
+    "placement": "home",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 208221,
+    "websiteBytes": 197766
+  },
+  {
+    "index": 24,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.07 (1).jpeg",
+    "website": "/assets/home/bread-spread-story.webp",
+    "alt": "Bread spread on a serving table",
+    "placement": "home",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 248880,
+    "websiteBytes": 244266
+  },
+  {
+    "index": 25,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.07.jpeg",
+    "website": "/assets/home/bread-display-gallery.webp",
+    "alt": "A display of assorted breads",
+    "placement": "home",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 267239,
+    "websiteBytes": 269556
+  },
+  {
+    "index": 26,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.09.jpeg",
+    "website": "/assets/home/rectangular-breads.webp",
+    "alt": "Rectangular bread selection",
+    "placement": "home",
+    "originalDimensions": [
+      1200,
+      1600
+    ],
+    "originalBytes": 266643,
+    "websiteBytes": 256932
+  },
+  {
+    "index": 27,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.11.jpeg",
+    "website": "/assets/home/biscuit-roti-closeup.webp",
+    "alt": "Close-up of biscuit roti",
+    "placement": "home",
+    "originalDimensions": [
+      780,
+      1040
+    ],
+    "originalBytes": 100537,
+    "websiteBytes": 92706
+  },
+  {
+    "index": 28,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.12.jpeg",
+    "website": "/assets/home/flatbreads-gallery.webp",
+    "alt": "Assorted flatbreads",
+    "placement": "home",
+    "originalDimensions": [
+      780,
+      1040
+    ],
+    "originalBytes": 100379,
+    "websiteBytes": 91440
+  },
+  {
+    "index": 29,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.13 (1).jpeg",
+    "website": "/assets/home/cut-bread-selection.webp",
+    "alt": "Cut bread selection",
+    "placement": "home",
+    "originalDimensions": [
+      492,
+      1036
+    ],
+    "originalBytes": 73667,
+    "websiteBytes": 71112
+  },
+  {
+    "index": 30,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.13.jpeg",
+    "website": "/assets/home/bread-varieties.webp",
+    "alt": "Bread varieties arranged for serving",
+    "placement": "home",
+    "originalDimensions": [
+      578,
+      726
+    ],
+    "originalBytes": 110117,
+    "websiteBytes": 40884
+  },
+  {
+    "index": 31,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.15 (1).jpeg",
+    "website": "/assets/gallery/kitchen-selfie.webp",
+    "alt": "A person photographed inside the kitchen area",
+    "placement": "gallery",
+    "originalDimensions": [
+      1080,
+      1080
+    ],
+    "originalBytes": 118631,
+    "websiteBytes": 155148
+  },
+  {
+    "index": 32,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.15.jpeg",
+    "website": "/assets/home/round-flatbreads.webp",
+    "alt": "Round flatbreads",
+    "placement": "home",
+    "originalDimensions": [
+      492,
+      1036
+    ],
+    "originalBytes": 70279,
+    "websiteBytes": 65460
+  },
+  {
+    "index": 33,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.16 (1).jpeg",
+    "website": "/assets/gallery/team-menu-photo.webp",
+    "alt": "A team member photographed beside a menu display",
+    "placement": "gallery",
+    "originalDimensions": [
+      1080,
+      1080
+    ],
+    "originalBytes": 96007,
+    "websiteBytes": 116204
+  },
+  {
+    "index": 34,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.20.16.jpeg",
+    "website": "/assets/story/kitchen-team.webp",
+    "alt": "Kitchen team at work",
+    "placement": "story",
+    "originalDimensions": [
+      1080,
+      1080
+    ],
+    "originalBytes": 139079,
+    "websiteBytes": 174886
+  },
+  {
+    "index": 35,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.23.25.jpeg",
+    "website": "/assets/gallery/chef-promo-cutout.webp",
+    "alt": "Promotional chef cutout graphic",
+    "placement": "gallery",
+    "originalDimensions": [
+      716,
+      1076
+    ],
+    "originalBytes": 101698,
+    "websiteBytes": 11366
+  },
+  {
+    "index": 36,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.16.jpeg",
+    "website": "/assets/gallery/kasuriya-suji-halwa-poster.webp",
+    "alt": "Promotional poster for Kasuriya Suji Ka Halwa",
+    "placement": "gallery",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 262126,
+    "websiteBytes": 258802
+  },
+  {
+    "index": 37,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.23.jpeg",
+    "website": "/assets/gallery/catering-menu-poster.webp",
+    "alt": "Promotional catering poster showing a food spread",
+    "placement": "gallery",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 258449,
+    "websiteBytes": 258914
+  },
+  {
+    "index": 38,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.25 (1).jpeg",
+    "website": "/assets/naan-roti-kulcha/tawa-fulka-poster.webp",
+    "alt": "Promotional image for Tawa Fulka Roti",
+    "placement": "naan",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 240807,
+    "websiteBytes": 240562
+  },
+  {
+    "index": 39,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.25.jpeg",
+    "website": "/assets/gallery/national-amritsari-food-poster.webp",
+    "alt": "National Amritsari catering promotional poster",
+    "placement": "gallery",
+    "originalDimensions": [
+      1066,
+      1280
+    ],
+    "originalBytes": 247362,
+    "websiteBytes": 233210
+  },
+  {
+    "index": 40,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.26 (1).jpeg",
+    "website": "/assets/parathas/kesariya-pheni-paratha-poster-alt.webp",
+    "alt": "Promotional image for Kesariya Pheni Paratha",
+    "placement": "parathas",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 248097,
+    "websiteBytes": 247426
+  },
+  {
+    "index": 41,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.26 (2).jpeg",
+    "website": "/assets/naan-roti-kulcha/garlic-butter-naan-poster.webp",
+    "alt": "Promotional image for Garlic Naan and Butter Naan",
+    "placement": "naan",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 236389,
+    "websiteBytes": 233552
+  },
+  {
+    "index": 42,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.26 (3).jpeg",
+    "website": "/assets/naan-roti-kulcha/laal-roti-poster.webp",
+    "alt": "Promotional image for Special Laal Roti",
+    "placement": "naan",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 257442,
+    "websiteBytes": 252104
+  },
+  {
+    "index": 43,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.26.jpeg",
+    "website": "/assets/naan-roti-kulcha/biscuit-roti-poster.webp",
+    "alt": "Promotional image for Biscuit Roti",
+    "placement": "naan",
+    "originalDimensions": [
+      853,
+      1280
+    ],
+    "originalBytes": 255037,
+    "websiteBytes": 255654
+  },
+  {
+    "index": 44,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.27 (1).jpeg",
+    "website": "/assets/gallery/national-amritsari-chef-poster.webp",
+    "alt": "Business poster featuring the kitchen team and menu",
+    "placement": "gallery",
+    "originalDimensions": [
+      1145,
+      1374
+    ],
+    "originalBytes": 249833,
+    "websiteBytes": 230074
+  },
+  {
+    "index": 45,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.27 (2).jpeg",
+    "website": "/assets/naan-roti-kulcha/lemon-naan-poster.webp",
+    "alt": "Promotional image for Lemon Naan",
+    "placement": "naan",
+    "originalDimensions": [
+      1312,
+      1199
+    ],
+    "originalBytes": 384595,
+    "websiteBytes": 414614
+  },
+  {
+    "index": 46,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.27.jpeg",
+    "website": "/assets/naan-roti-kulcha/kalonji-naan-poster.webp",
+    "alt": "Promotional image for Kalonji Naan",
+    "placement": "naan",
+    "originalDimensions": [
+      1145,
+      1374
+    ],
+    "originalBytes": 311473,
+    "websiteBytes": 305384
+  },
+  {
+    "index": 47,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.28 (1).jpeg",
+    "website": "/assets/gallery/national-amritsari-banner.webp",
+    "alt": "National Amritsari business banner",
+    "placement": "gallery",
+    "originalDimensions": [
+      1280,
+      640
+    ],
+    "originalBytes": 181384,
+    "websiteBytes": 157508
+  },
+  {
+    "index": 48,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.28.28.jpeg",
+    "website": "/assets/gallery/lemon-naan-poster-alt.webp",
+    "alt": "Alternate Lemon Naan promotional image",
+    "placement": "duplicate",
+    "originalDimensions": [
+      1312,
+      1199
+    ],
+    "originalBytes": 387429,
+    "websiteBytes": 391586,
+    "duplicateOf": "/assets/naan-roti-kulcha/lemon-naan-poster.webp",
+    "reason": "Alternate artwork repeats the Lemon Naan photograph already used on the naan page; retained in assets but not displayed twice."
+  },
+  {
+    "index": 49,
+    "original": "/Users/abhisheksrivastav/Downloads/a/WhatsApp Image 2026-10-27 at 02.30.15.jpeg",
+    "website": "/assets/special-breads/bakarkhani-round-bread.webp",
+    "alt": "Round baked bread assortment from a close-up photograph",
+    "placement": "special",
+    "originalDimensions": [
+      1280,
+      1228
+    ],
+    "originalBytes": 149311,
+    "websiteBytes": 130632
+  }
+]

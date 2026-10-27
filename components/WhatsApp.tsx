@@ -1,0 +1,2 @@
+export function whatsapp(message:string){return `https://wa.me/919897925406?text=${encodeURIComponent(message)}`}
+export function OrderLink({children='Order on WhatsApp',message='Hello National Amritsari MS Catering, I would like to inquire about your menu and available bread varieties.',className='button button-gold'}:{children?:React.ReactNode;message?:string;className?:string}){return <a className={className} href={whatsapp(message)} target="_blank" rel="noreferrer">{children}</a>}
